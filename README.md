@@ -2,4 +2,4 @@
 
 Final Project for CS 1998 Intro to iOS Programming
 
-Fully functional 2 player Chess App
+2 Player Chess App
